@@ -1,3 +1,6 @@
 details of file1
 
 plus some others
+
+
+fixing bug
